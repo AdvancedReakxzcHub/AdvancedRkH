@@ -1,5 +1,5 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{ 	Title = "by rk06", 	Text = "永久免费，半缝合", 	Duration = 10 })
-game:GetService("StarterGui"):SetCore("SendNotification",{ 	Title = "by rk06", 	Text = "暂无QQ群，给我打口", 	Duration = 10 })
+game:GetService("StarterGui"):SetCore("SendNotification",{ 	Title = "by rk06", 	Text = "暂无QQ群，鹿雨桐给我打口", 	Duration = 10 })
 function Notify(Title1, Text1, Icon1, Time1)
   game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = Title1,
@@ -8,10 +8,10 @@ function Notify(Title1, Text1, Icon1, Time1)
     Duration = Time1,
   })
 end
-Notify("RKH中心", "作者RK06", "rbxassetid://17360377302", 3)
+Notify("鹿雨桐中心", "作者RK06", "rbxassetid://17360377302", 3)
 Notify("永久免费", "祝你玩的开心","rbxassetid://17360377302",3)
 Notify("永久免费", "没有盈利","rbxassetid://17360377302",3)
-Notify("RKH中心", "永久免费","rbxassetid://17360377302",3)
+Notify("鹿雨桐中心", "永久免费","rbxassetid://17360377302",3)
 Notify("拒绝跑路", "拒绝倒卖","rbxassetid://17360377302",3)
 Notify("启动完成", "祝你玩的开心","rbxassetid://17360377302",5)
 
