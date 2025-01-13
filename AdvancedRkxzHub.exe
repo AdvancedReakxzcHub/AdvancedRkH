@@ -1,5 +1,5 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{ 	Title = "by rk06", 	Text = "永久免费，半缝合", 	Duration = 10 })
-game:GetService("StarterGui"):SetCore("SendNotification",{ 	Title = "by rk06", 	Text = "暂无QQ群，鹿雨桐给我打口", 	Duration = 10 })
+game:GetService("StarterGui"):SetCore("SendNotification",{ 	Title = "by rk06", 	Text = "暂无QQ群，鹿雨桐鹿鹿", 	Duration = 10 })
 function Notify(Title1, Text1, Icon1, Time1)
   game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = Title1,
@@ -16,7 +16,7 @@ Notify("拒绝跑路", "拒绝倒卖","rbxassetid://17360377302",3)
 Notify("启动完成", "祝你玩的开心","rbxassetid://17360377302",5)
 
 local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/XiaoYunCN/UWU/main/Library%2FSilent%20ui'))()
-local Window = Library:new("RKH中心 ");
+local Window = Library:new("鹿雨桐中心 ");
 
 local creds = Window:Tab("公告",'16060333448')
 local bin = creds:section("信息",true)
